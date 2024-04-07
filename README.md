@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Process for Attack Simulation and Threat Analysis (PASTA)</b>
-  - [Apply the PASTA threat model framework](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Apply the PASTA threat model framework](https://github.com/JEdouard01/ApplyPASTAThreatModelFramework)
 - <b>Packet sniffers</b>
   - [Tcpdump (Linux)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b></i>
   - [Wireshark)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b></i>
