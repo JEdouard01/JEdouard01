@@ -6,8 +6,8 @@
   - [Apply the PASTA threat model framework](https://github.com/JEdouard01/ApplyPASTAThreatModelFramework)
 - <b>Packet sniffers</b>
   - [Tcpdump (Linux)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b></i>
-  - [Wireshark)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b></i>
-  -[Wireshark and tcpdump comparison)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b></i>
+  - [Wireshark](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b></i>
+  - [Wireshark and tcpdump comparison)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b></i>
 - <b>Network Attack Analysis</b>
   - [Example](https://github.com/joshmadakor1/Sentinel-Lab)
   - [](https://github.com/joshmadakor1/Sentinel-Lab)
