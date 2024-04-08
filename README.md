@@ -7,24 +7,6 @@
 - <b>Packet sniffers</b>
   - [Tcpdump (Linux)](https://github.com/JEdouard01/CaptureNetworkTraffic/blob/main/README.md)</b></i>
   - [Wireshark](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b></i>
-  - [Wireshark and tcpdump comparison)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b></i>
-- <b>Network Attack Analysis</b>
-  - [Example](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>Reports</b>
-  - [Security incident](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Vulnerability assessment](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Security risk assessment](https://github.com/joshmadakor1/EncrypterPOC)
-- <b>Python</b>
-  - [Create Hash Values](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Create Algorithm](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Use regular expressions to find patterns](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Import and parse a text file](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Develop an Algorithm](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Debug code](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>Suricata</b>
-- <b>Linux</b>
-  - [File permissions](https://github.com/joshmadakor1/EncrypterPOC)
 
 <h2>📄Certifications</h2>
 
