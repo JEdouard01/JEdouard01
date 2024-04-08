@@ -4,7 +4,7 @@
 
 - <b>Process for Attack Simulation and Threat Analysis (PASTA)</b>
   - [Apply the PASTA threat model framework](https://github.com/JEdouard01/ApplyPASTAThreatModelFramework)
-- <b>Packet sniffers</b>
+- <b>Packet Sniffers</b>
   - [Tcpdump (Linux)](https://github.com/JEdouard01/CaptureNetworkTraffic/blob/main/README.md)</b></i>
   - [Wireshark](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b></i>
 
